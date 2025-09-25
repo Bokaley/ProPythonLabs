@@ -1,0 +1,30 @@
+Инициализация репозитория
+git init
+Добавление файлов и первый коммит
+git add .
+git commit -m "Initial project structure with compute_distances"
+Создание ветки для задания
+git checkout -b feature/compute-distances
+Просмотр статуса
+git status
+Просмотр изменений
+git diff
+Добавление и коммит изменений по задаче
+git add <paths>
+git commit -m "Add compute_distances and tests"
+Объединение изменений (merge) или rebase
+git checkout main
+git merge feature/compute-distances
+или git rebase feature/compute-distances
+Пуш на удаленный репозиторий
+git remote add origin <url>
+git push -u origin main
+git push origin feature/compute-distances
+Возврат к предыдущему состоянию
+git checkout -- <file>
+git reset --hard HEAD
+Просмотр истории
+git log --oneline --graph --decorate
+Создание тегов
+git tag v0.1
+git push origin v0.1
