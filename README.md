@@ -31,7 +31,7 @@ def calculate_distances(sites_data):
             distances[city2][city1] = dist
     return distances
 
-!https://github.com/Bokaley/ProPythonLabs/blob/main/Lab0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA00.JPG
+![Иллюстрация к проекту](https://github.com/Bokaley/ProPythonLabs/blob/main/Lab0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA00.JPG)
 
 
 
