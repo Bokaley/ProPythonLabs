@@ -13,7 +13,6 @@
     11. Рассчитать на какую сумму лежит каждого товара на складе. Вывести стоимость каждого вида товара на складе.
 
 Картинка для первого задания (Все остальные тоже работают)
-![Иллюстрация к проекту](https://github.com/Bokaley/ProPythonLabs/blob/main/Lab01/Lab0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA00.JPG)
-
+![Иллюстрация к проекту](https://github.com/Bokaley/ProPythonLabs/blob/main/lab01/Lab0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA00.JPG)
 
 
